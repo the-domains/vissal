@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Professional Photographer]]></title>
         <description><![CDATA[Professional Photographer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vissal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 10:48:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Dec 2015 10:49:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vissal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Post 2]]></title>
+            <description><![CDATA[<article><h1>Post 2</h1><p>http://facebook.com/sosimbo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d2d7302c4d58c23c654bcb4b4a99d62e30f6b94.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vissal/post-2/index.html</link>
+            <guid isPermaLink="false">22fa44e2-767c-4d3b-8cb2-f8470322622a</guid>
+            <pubDate>Wed, 16 Dec 2015 10:48:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test Post 1, Evangaline]]></title>
             <description><![CDATA[<article><h1>Test Post 1, Evangaline</h1><p>First image, becomes title image</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85cb290080dbf0ff83ef88b94abff38bfc4102c8.jpg"></article>]]></description>
-            <link>undefinedtest-post-1-evangaline/index.html</link>
+            <link>https://thegrid.ai/vissal/test-post-1-evangaline/index.html</link>
             <guid isPermaLink="false">2e8e8660-5162-4d19-8022-0dcb37dab2af</guid>
             <pubDate>Wed, 16 Dec 2015 10:48:22 GMT</pubDate>
         </item>
