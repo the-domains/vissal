@@ -1,7 +1,7 @@
 name: vissal
 favicon: null
-layout_spectrum: 0.9614420866128057
-typography_spectrum: 0.5315413987264037
+layout_spectrum: 0.94951
+typography_spectrum: 0.77011
 title: Professional Photographer
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.09698463324457407
-  lightness: 0.07380251795984805
-  saturation: 0.41919569205492735
-  rhythmicContrast: 0.8694471588823944
+    - '#e4f2fe'
+    - '#9d8475'
+    - '#000000'
+    - '#cbbeb5'
+    - '#262e36'
+  brandStrength: 0.1875
+  lightness: 0.75
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
