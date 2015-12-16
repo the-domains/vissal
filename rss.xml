@@ -4,11 +4,11 @@
         <description><![CDATA[Professional Photographer]]></description>
         <link>https://thegrid.ai/vissal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 10:29:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Dec 2015 10:34:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vissal/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test # 2, title]]></title>
-            <description><![CDATA[<article><h1>Test # 2, title</h1><p>second set of photos</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a172144a-b3d6-4df7-ac6b-45b0a66e15c3.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Test # 2, title</h1><p>second set of photos</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/807bc2f60360a3fbb703cf293d5c8919abdbaf78.jpg"></article>]]></description>
             <link>https://thegrid.ai/vissal/test-2-title/index.html</link>
             <guid isPermaLink="false">f13c71da-f4a2-4ae3-a05c-a25f9b03fc49</guid>
             <pubDate>Wed, 16 Dec 2015 10:29:16 GMT</pubDate>
@@ -18,7 +18,7 @@
             <description><![CDATA[<article><h1>Photos of Evangeline at the Fashion Shoot</h1><p>post description</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52b95d477404c8937753313011b52137013aa2f1.jpg"></article>]]></description>
             <link>https://thegrid.ai/vissal/photos-of-evangeline-at-the-fashion-shoot/index.html</link>
             <guid isPermaLink="false">43f7d8db-699e-4e62-9a82-5b71095f10f6</guid>
-            <pubDate>Wed, 16 Dec 2015 10:17:31 GMT</pubDate>
+            <pubDate>Wed, 16 Dec 2015 10:34:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
