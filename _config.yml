@@ -1,0 +1,28 @@
+name: vissal
+favicon: null
+layout_spectrum: 0.9614420866128057
+typography_spectrum: 0.5315413987264037
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.09698463324457407
+  lightness: 0.07380251795984805
+  saturation: 0.41919569205492735
+  rhythmicContrast: 0.8694471588823944
+purpose: []
